@@ -1,5 +1,5 @@
 {
-    "name": "moniiz/calculator",
+    "name": "moniiiz/calculator",
     "description": "This demo package will do some calculations",
     "autoload": {
         "psr-4": {
